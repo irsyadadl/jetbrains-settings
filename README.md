@@ -1,0 +1,3 @@
+# jetbrains-settings
+
+File > Manage IDE Settings > Import Settings...
